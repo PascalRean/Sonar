@@ -1,7 +1,7 @@
 class A
 {
 int v;
-};
+}; 
 
 int main(void)
 {
